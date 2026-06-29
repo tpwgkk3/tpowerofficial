@@ -1,22 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
+  <!-- ✅ Homepage – English -->
+  <url>
+    <loc>https://www.tpowerofficial.net/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tpowerofficial.net/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.tpowerofficial.net/cn"/>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.tpowerofficial.net/og-image.png</image:loc>
+      <image:title>TPower Official – Malaysia's Most Trusted Online Casino</image:title>
+    </image:image>
+  </url>
 
-<url>
-  <loc>https://www.tpowerofficial.net/</loc>
-  <lastmod>2025-09-08T13:51:57+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.tpowerofficial.net/signup.html</loc>
-  <lastmod>2025-09-08T13:51:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+  <!-- ✅ Homepage – Chinese-->
+  <url>
+    <loc>https://www.tpowerofficial.net/cn</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tpowerofficial.net/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.tpowerofficial.net/cn"/>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.tpowerofficial.net/og-image.png</image:loc>
+      <image:title>TPower 官方 – 马来西亚最受信赖网络赌场</image:title>
+    </image:image>
+  </url>
 
+  <!-- ✅ About -->
+  <url>
+    <loc>https://www.tpowerofficial.net/about.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ✅ Contact -->
+  <url>
+    <loc>https://www.tpowerofficial.net/contact.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ✅ FAQ -->
+  <url>
+    <loc>https://www.tpowerofficial.net/faq.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ✅ Privacy Policy -->
+  <url>
+    <loc>https://www.tpowerofficial.net/privacy.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- ✅ Terms & Conditions -->
+  <url>
+    <loc>https://www.tpowerofficial.net/terms.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- ✅ User Guide -->
+  <url>
+    <loc>https://www.tpowerofficial.net/readme.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ✅ How to Register -->
+  <url>
+    <loc>https://www.tpowerofficial.net/how-to-register-tpower.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ✅ What is TPower -->
+  <url>
+    <loc>https://www.tpowerofficial.net/what-is-tpower.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ✅ Game Providers -->
+  <url>
+    <loc>https://www.tpowerofficial.net/tpower-game-providers.html</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
 </urlset>
