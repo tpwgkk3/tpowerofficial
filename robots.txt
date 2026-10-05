@@ -1,27 +1,12 @@
-# ✅ TPower Official – robots.txt
-# Site: https://www.tpowerofficial.net
-# Updated: 2026
+# TPower Guide
+# Website: https://tpower4u.com/
+# Updated: 2026-10-05
 
-# ✅ Allow all search engine crawlers
 User-agent: *
 Allow: /
 
-# ✅ Allow Google
-User-agent: Googlebot
-Allow: /
-
-# ✅ Allow Bing
-User-agent: Bingbot
-Allow: /
-
-# ✅ Allow Yahoo
-User-agent: Slurp
-Allow: /
-
-# ✅ Block access to sensitive / private directories
+# Reduce crawling of non-public technical directories
 Disallow: /admin/
-Disallow: /login.html
-Disallow: /signup.html
 Disallow: /dashboard/
 Disallow: /account/
 Disallow: /api/
@@ -30,12 +15,8 @@ Disallow: /private/
 Disallow: /tmp/
 Disallow: /backup/
 Disallow: /cgi-bin/
-Disallow: /*.json$
-Disallow: /*.xml$
-Disallow: /*.log$
-Disallow: /*.env$
 
-# ✅ Block bad & spam bots
+# Block selected SEO and data-collection crawlers
 User-agent: AhrefsBot
 Disallow: /
 
@@ -51,20 +32,16 @@ Disallow: /
 User-agent: BLEXBot
 Disallow: /
 
-User-agent: PetalBot
-Disallow: /
-
 User-agent: DataForSeoBot
 Disallow: /
 
 User-agent: serpstatbot
 Disallow: /
 
-User-agent: LinkpadBot
+User-agent: PetalBot
 Disallow: /
 
 User-agent: YandexBot
 Disallow: /
 
-# ✅ Sitemap location
-Sitemap: https://www.tpowerofficial.net/sitemap.xml
+Sitemap: https://tpower4u.com/sitemap.xml
